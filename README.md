@@ -37,4 +37,4 @@ I'm available for freelance builds and remote roles. If you need a web app shipp
 - **Email:** [georgeabiamakadaniel@gmail.com](mailto:georgeabiamakadaniel@gmail.com)
 - **Portfolio:** [george-daniel.vercel.app](https://george-daniel.vercel.app)
 - **LinkedIn:** [george-daniel](https://www.linkedin.com/in/george-daniel/)
-- **X / Twitter:** [@Georgedamiel_](https://x.com/Georgedamiel_)
+- **X / Twitter:** [@Georgedamiel](https://x.com/Georgedamiel)
